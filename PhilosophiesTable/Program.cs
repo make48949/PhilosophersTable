@@ -9,7 +9,7 @@
         //public Thread ph5;
 
 
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Table table = new Table();
 
